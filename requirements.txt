@@ -1,6 +1,8 @@
 scrapy
 scrapy-splash
+scrapy-selenium
 cookiecutter
 selenium
-scrapy-selenium
 scrapy_cloudflare_middleware
+Pillow
+scrapy-rotating-proxies
